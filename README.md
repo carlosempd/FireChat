@@ -1,4 +1,6 @@
 # Firechat
+Este es un pequeño chat construido con Firebase, sólo a modo de prueba.
+No hay ningun estándar en la creación del código y solo tiene finalidad ilustrativa.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
